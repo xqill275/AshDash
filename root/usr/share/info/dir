@@ -22,6 +22,9 @@ Basics
 * File permissions: (coreutils)File permissions.
                                 Access modes.
 
+Editors
+* nano: (nano).                 Small and friendly text editor.
+
 Individual utilities
 * arch: (coreutils)arch invocation.             Print machine hardware name.
 * b2sum: (coreutils)b2sum invocation.           Print or check BLAKE2 digests.
